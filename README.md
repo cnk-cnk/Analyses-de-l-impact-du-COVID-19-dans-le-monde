@@ -3,7 +3,7 @@ Total number of deaths and cases of COVID-19 worldwide
 Total number of deaths and cases of COVID-19 in each continent  
 Top 05 countries with the highest deaths and cases of COVID
 Bottom 05 countries with the lowest deaths and cases of COVID  
-Daily cummulative trend of COVID-19 cases and deaths
+Daily cumulative trend of COVID-19 cases and deaths
 Total number of deaths and cases by country per year/month
 Annual mortality rate  
 Monthly infection rate    
